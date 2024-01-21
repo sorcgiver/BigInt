@@ -1,2 +1,3 @@
 # BigInt
-optimized library for working with large numbers
+use The GNU MP Bignum Library
+https://gmplib.org/
